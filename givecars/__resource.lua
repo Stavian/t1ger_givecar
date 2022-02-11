@@ -1,7 +1,7 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
 autor 'Marlon'
-description 'Admin Command to GiveCars in a T1ger Garage'
+description 'Admin Command to GiveCars in a T1ger Garage (Rewrote from another Script)'
 version '1.0'
 
 server_scripts {
